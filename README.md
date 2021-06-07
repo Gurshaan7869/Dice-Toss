@@ -1,4 +1,4 @@
-# dice-toss
+# Dice-toss
 
 To run this code on local machine, copy paste the whole repository as it is and just run dicee.html in any browser.
 
